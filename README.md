@@ -21,6 +21,7 @@
 
 ## Java
 [![stock-prices-monitor](https://github-readme-stats.vercel.app/api/pin/?username=jonasalessi&repo=stock-prices-monitor)](https://github.com/jonasalessi/stock-prices-monitor)
+[![travelsalesman](https://github-readme-stats.vercel.app/api/pin/?username=jonasalessi&repo=travelsalesman)](https://github.com/jonasalessi/travelsalesman)
 
 ## JavaScript
 ### TypeScript
