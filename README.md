@@ -38,8 +38,9 @@
 ## C
 [![embedded-wind-power-plant](https://github-readme-stats.vercel.app/api/pin/?username=jonasalessi&repo=embedded-wind-power-plant)](https://github.com/jonasalessi/embedded-wind-power-plant)
 
-## Monitoring
+## Observability
 [![prometheus-grafana-sandbox](https://github-readme-stats.vercel.app/api/pin/?username=jonasalessi&repo=prometheus-grafana-sandbox)](https://github.com/jonasalessi/prometheus-grafana-sandbox)
+[![apm-elastic-in-action](https://github-readme-stats.vercel.app/api/pin/?username=jonasalessi&repo=apm-playground)](https://github.com/jonasalessi/apm-playground)
 
 ## Open Source
 [![abntex2-unoesc
