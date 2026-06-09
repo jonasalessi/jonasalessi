@@ -17,118 +17,48 @@
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
 
 ## Kotlin
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/jonasalessi/stock-market-simulation">
-    <img src="./images/stock-market-simulation.svg" alt="stock-market-simulation" />
-  </a>
-  <a href="https://github.com/jonasalessi/cdd">
-    <img src="./images/cdd.svg" alt="cdd" />
-  </a>
-  <a href="https://github.com/jonasalessi/cdd-intellij-plugin">
-    <img src="./images/cdd-intellij-plugin.svg" alt="cdd-intellij-plugin" />
-  </a>
-</div>
+[![stock-market-simulation](./images/stock-market-simulation.svg)](https://github.com/jonasalessi/stock-market-simulation)
+[![cdd](./images/cdd.svg)](https://github.com/jonasalessi/cdd)
+[![cdd-intellij-plugin](./images/cdd-intellij-plugin.svg)](https://github.com/jonasalessi/cdd-intellij-plugin)
 
 ## Java
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/jonasalessi/stock-prices-monitor">
-    <img src="./images/stock-prices-monitor.svg" alt="stock-prices-monitor" />
-  </a>
-  <a href="https://github.com/jonasalessi/travelsalesman">
-    <img src="./images/travelsalesman.svg" alt="travelsalesman" />
-  </a>
-  <a href="https://github.com/jonasalessi/EclIRC">
-    <img src="./images/EclIRC.svg" alt="EclIRC" />
-  </a>
-  <a href="https://github.com/jonasalessi/minicurso_hibernate">
-    <img src="./images/minicurso_hibernate.svg" alt="minicurso_hibernate" />
-  </a>
-  <a href="https://github.com/jonasalessi/walkerBoot">
-    <img src="./images/walkerBoot.svg" alt="walkerBoot" />
-  </a>
-</div>
+[![stock-prices-monitor](./images/stock-prices-monitor.svg)](https://github.com/jonasalessi/stock-prices-monitor)
+[![travelsalesman](./images/travelsalesman.svg)](https://github.com/jonasalessi/travelsalesman)
+[![EclIRC](./images/EclIRC.svg)](https://github.com/jonasalessi/EclIRC)
+[![minicurso_hibernate](./images/minicurso_hibernate.svg)](https://github.com/jonasalessi/minicurso_hibernate)
+[![walkerBoot](./images/walkerBoot.svg)](https://github.com/jonasalessi/walkerBoot)
 
 ## JavaScript
 ### TypeScript
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/jonasalessi/coding-challenge-backend-c">
-    <img src="./images/codechallenge-busbud-demo.svg" alt="coding-challenge-backend-c" />
-  </a>
-  <a href="https://github.com/jonasalessi/shopping-cart-ddd">
-    <img src="./images/shopping-cart-ddd.svg" alt="shopping-cart-ddd" />
-  </a>
-</div>
+[![coding-challenge-backend-c](./images/codechallenge-busbud-demo.svg)](https://github.com/jonasalessi/coding-challenge-backend-c)
+[![shopping-cart-ddd](./images/shopping-cart-ddd.svg)](https://github.com/jonasalessi/shopping-cart-ddd)
 
 ### NodeJs/ReactJs/ReactNative
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/jonasalessi/ecollect">
-    <img src="./images/ecollect.svg" alt="ecollect" />
-  </a>
-</div>
+[![ecollect](./images/ecollect.svg)](https://github.com/jonasalessi/ecollect)
 
 ### Games
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/jonasalessi/quadblock">
-    <img src="./images/quadblock.svg" alt="quadblock" />
-  </a>
-</div>
+[![quadblock](./images/quadblock.svg)](https://github.com/jonasalessi/quadblock)
 
 ## Go
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/jonasalessi/go-graphQL">
-    <img src="./images/go-graphQL.svg" alt="go-graphQL" />
-  </a>
-  <a href="https://github.com/jonasalessi/go-gRPC">
-    <img src="./images/go-gRPC.svg" alt="go-gRPC" />
-  </a>
-</div>
+[![go-graphQL](./images/go-graphQL.svg)](https://github.com/jonasalessi/go-graphQL)
+[![go-gRPC](./images/go-gRPC.svg)](https://github.com/jonasalessi/go-gRPC)
 
 ## C
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/jonasalessi/embedded-wind-power-plant">
-    <img src="./images/embedded-wind-power-plant.svg" alt="embedded-wind-power-plant" />
-  </a>
-</div>
+[![embedded-wind-power-plant](./images/embedded-wind-power-plant.svg)](https://github.com/jonasalessi/embedded-wind-power-plant)
 
 ## AI / LLM
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/jonasalessi/llm-plans-agents">
-    <img src="./images/llm-plans-agents.svg" alt="llm-plans-agents" />
-  </a>
-  <a href="https://github.com/jonasalessi/playground-mcp-skills">
-    <img src="./images/playground-mcp-skills.svg" alt="playground-mcp-skills" />
-  </a>
-  <a href="https://github.com/jonasalessi/skills">
-    <img src="./images/skills.svg" alt="skills" />
-  </a>
-</div>
+[![llm-plans-agents](./images/llm-plans-agents.svg)](https://github.com/jonasalessi/llm-plans-agents)
+[![playground-mcp-skills](./images/playground-mcp-skills.svg)](https://github.com/jonasalessi/playground-mcp-skills)
+[![skills](./images/skills.svg)](https://github.com/jonasalessi/skills)
 
 ## Observability
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/jonasalessi/prometheus-grafana-sandbox">
-    <img src="./images/prometheus-grafana-sandbox.svg" alt="prometheus-grafana-sandbox" />
-  </a>
-  <a href="https://github.com/jonasalessi/apm-playground">
-    <img src="./images/apm-playground.svg" alt="apm-playground" />
-  </a>
-</div>
+[![prometheus-grafana-sandbox](./images/prometheus-grafana-sandbox.svg)](https://github.com/jonasalessi/prometheus-grafana-sandbox)
+[![apm-playground](./images/apm-playground.svg)](https://github.com/jonasalessi/apm-playground)
 
 ## DevOps / CI
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/jonasalessi/gha-actions-playground">
-    <img src="./images/gha-actions-playground.svg" alt="gha-actions-playground" />
-  </a>
-</div>
+[![gha-actions-playground](./images/gha-actions-playground.svg)](https://github.com/jonasalessi/gha-actions-playground)
 
 ## Open Source
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/jonasalessi/abntex2-unoesc">
-    <img src="./images/abntex2-unoesc.svg" alt="abntex2-unoesc" />
-  </a>
-  <a href="https://github.com/jonasalessi/EclIRC">
-    <img src="./images/EclIRC.svg" alt="EclIRC" />
-  </a>
-  <a href="https://github.com/jonasalessi/cdd">
-    <img src="./images/cdd.svg" alt="cdd" />
-  </a>
-</div>
+[![abntex2-unoesc](./images/abntex2-unoesc.svg)](https://github.com/jonasalessi/abntex2-unoesc)
+[![EclIRC](./images/EclIRC.svg)](https://github.com/jonasalessi/EclIRC)
+[![cdd](./images/cdd.svg)](https://github.com/jonasalessi/cdd)
