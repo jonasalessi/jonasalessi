@@ -19,7 +19,6 @@
 ## Kotlin
 [![stock-market-simulation](./images/stock-market-simulation.svg)](https://github.com/jonasalessi/stock-market-simulation)
 [![cdd](./images/cdd.svg)](https://github.com/jonasalessi/cdd)
-[![cdd-intellij-plugin](./images/cdd-intellij-plugin.svg)](https://github.com/jonasalessi/cdd-intellij-plugin)
 
 ## Java
 [![stock-prices-monitor](./images/stock-prices-monitor.svg)](https://github.com/jonasalessi/stock-prices-monitor)
