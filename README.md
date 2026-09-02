@@ -16,9 +16,14 @@
 💻 I’m a Full-stack developer with a bachelor's degree in Computer Engineering. </br></br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
 
+## Open Source
+[![abntex2-unoesc](./images/abntex2-unoesc.svg)](https://github.com/jonasalessi/abntex2-unoesc)
+[![EclIRC](./images/EclIRC.svg)](https://github.com/jonasalessi/EclIRC)
+[![cdd](./images/cdd-cli.svg)](https://github.com/jonasalessi/cdd-cli)
+
+
 ## Kotlin
 [![stock-market-simulation](./images/stock-market-simulation.svg)](https://github.com/jonasalessi/stock-market-simulation)
-[![cdd](./images/cdd.svg)](https://github.com/jonasalessi/cdd)
 
 ## Java
 [![stock-prices-monitor](./images/stock-prices-monitor.svg)](https://github.com/jonasalessi/stock-prices-monitor)
@@ -56,8 +61,3 @@
 
 ## DevOps / CI
 [![gha-actions-playground](./images/gha-actions-playground.svg)](https://github.com/jonasalessi/gha-actions-playground)
-
-## Open Source
-[![abntex2-unoesc](./images/abntex2-unoesc.svg)](https://github.com/jonasalessi/abntex2-unoesc)
-[![EclIRC](./images/EclIRC.svg)](https://github.com/jonasalessi/EclIRC)
-[![cdd](./images/cdd.svg)](https://github.com/jonasalessi/cdd)
