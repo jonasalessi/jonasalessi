@@ -19,7 +19,7 @@
 ## Open Source
 [![abntex2-unoesc](./images/abntex2-unoesc.svg)](https://github.com/jonasalessi/abntex2-unoesc)
 [![EclIRC](./images/EclIRC.svg)](https://github.com/jonasalessi/EclIRC)
-[![cdd](./images/cdd-cli.svg)](https://github.com/jonasalessi/cdd-cli)
+[![cdd](./images/cdd-cli.svg)](https://github.com/jonasalessi/cdd-lint)
 
 
 ## Kotlin
