@@ -23,8 +23,8 @@
 
   <text x="60" y="38" class="title fade-in">skills</text>
 
-  <text x="35" y="65" class="fade-in" style="animation-delay: 0.10s" font-family="'Courier New', Courier, monospace" font-size="14" fill="#24292f">No description provided.</text>
-  <text x="35" y="87" class="fade-in" style="animation-delay: 0.20s" font-family="'Courier New', Courier, monospace" font-size="14" fill="#24292f"></text>
+  <text x="35" y="65" class="fade-in" style="animation-delay: 0.10s" font-family="'Courier New', Courier, monospace" font-size="14" fill="#24292f">My Skills and workflow used in</text>
+  <text x="35" y="87" class="fade-in" style="animation-delay: 0.20s" font-family="'Courier New', Courier, monospace" font-size="14" fill="#24292f">Claude and Codex</text>
   <text x="35" y="109" class="fade-in" style="animation-delay: 0.30s" font-family="'Courier New', Courier, monospace" font-size="14" fill="#24292f"></text>
 
   <g transform="translate(35, 140)">
